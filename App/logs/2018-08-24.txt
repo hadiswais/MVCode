@@ -1,0 +1,5 @@
+[24-Aug-2018 01:30:39 Europe/Berlin] Uncaught exception:  'Exception'with message 'Method hhhAction not found in controllerApp\Controllers\Posts'
+ Stack trace: '#0 D:\dev\projects\www\MVCode\System\Core\Router.php(71): System\Core\Controller->__call('hhh', Array)
+#1 D:\dev\projects\www\MVCode\index.php(17): System\Core\Router->dispatch('posts/hhh')
+#2 {main}'
+ Throw in: 'D:\dev\projects\www\MVCode\System\Core\Controller.php'on line 27'
